@@ -12,23 +12,32 @@
 •	sentiment (VARCHAR(10))
 
 ## Data Analysis :
-### Sentiment Analysis:	Conducted sentiment classification on the "Text" column, categorizing user-generated content into various emotional states such as surprise, excitement, admiration, thrill, and contentment.
+#### Sentiment Analysis:	
+Conducted sentiment classification on the "Text" column, categorizing user-generated content into various emotional states such as surprise, excitement, admiration, thrill, and contentment.
 
-### Temporal Analysis:Analyzed trends over time using the "Timestamp" column to identify patterns and fluctuations in social media content.
+#### Temporal Analysis:
+Analyzed trends over time using the "Timestamp" column to identify patterns and fluctuations in social media content.
 
-### User Behavior Insights:Evaluated user engagement metrics through the "Likes" and "Retweets" columns to discover popular content and user preferences.
+#### User Behavior Insights:
+Evaluated user engagement metrics through the "Likes" and "Retweets" columns to discover popular content and user preferences.
 
-### Platform-Specific Analysis:	Examined sentiment variations across different social media platforms using the "Platform" column to understand how sentiments differ by platform.
+#### Platform-Specific Analysis:	
+Examined sentiment variations across different social media platforms using the "Platform" column to understand how sentiments differ by platform.
 
-### Hashtag Trends:Identified trending topics by analyzing the "Hashtags" column, uncovering popular or recurring hashtags within the dataset.
+#### Hashtag Trends:
+Identified trending topics by analyzing the "Hashtags" column, uncovering popular or recurring hashtags within the dataset.
 
-### Geographical Analysis:	Explored content distribution based on the "Country" column to understand regional variations in sentiment and topic preferences.
+#### Geographical Analysis:
+Explored content distribution based on the "Country" column to understand regional variations in sentiment and topic preferences.
 
-### User Identification:	Tracked specific users and their contributions using the "User " column, analyzing the impact of influential users on sentiment trends.
+#### User Identification:
+Tracked specific users and their contributions using the "User " column, analyzing the impact of influential users on sentiment trends.
 
-### Cross-Analysis:Combined multiple features for in-depth insights, such as analyzing sentiment trends over time or across different platforms and countries.
+#### Cross-Analysis:
+Combined multiple features for in-depth insights, such as analyzing sentiment trends over time or across different platforms and countries.
 
-## Results:	The analysis provided comprehensive insights into the emotional landscape of social media, revealing key trends and user behaviors.Generated actionable insights that can inform marketing strategies, content creation, and user engagement initiatives.
+## Results:
+The analysis provided comprehensive insights into the emotional landscape of social media, revealing key trends and user behaviors.Generated actionable insights that can inform marketing strategies, content creation, and user engagement initiatives.
 
 
 ## 	Conclusion
