@@ -5,8 +5,8 @@
 
 
 ## Data Preparation:
-### Cleaned the dataset in MS Excel to ensure data quality and consistency before analysis.
-### Created a database named Sentiment_analysis and established a table called sentiment_data with 3 columns:
+Cleaned the dataset in MS Excel to ensure data quality and consistency before analysis.
+Created a database named Sentiment_analysis and established a table called sentiment_data with 3 columns:
 •	id (INT)
 •	text (TEXT)
 •	sentiment (VARCHAR(10))
